@@ -1,6 +1,6 @@
 TASK 3  Linear Regression
 
-DATASET USED :HOUSEPRICING DATASET
+DATASET USED :HOUSEPRICING  PREDICTION DATASET
 
 Imported and preprocessed the dataset.
 
